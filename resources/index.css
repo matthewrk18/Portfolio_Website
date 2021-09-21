@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px 40px;
+    background-color: bisque;
+}
+img {
+    width: 100%;
+    height: auto;
+    padding: 0.5rem;
+}
+
+header h1 {
+    font-size: 7vw;
+    text-align: center;
+    text-shadow: 0.3rem 0.3rem 0.3rem darkorange;
+    max-width: 100%;
+}
+
+header h2 {
+    font-size: 4vw;
+    text-align: center;
+    text-shadow: 0.2rem 0.2rem 0.2rem darkgreen;
+}
